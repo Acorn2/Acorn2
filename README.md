@@ -154,14 +154,24 @@
 
 ## 🎯 精选项目
 
+> **注意**: 由于某些原因，以下个人独立开发的项目暂时设置为私有，并没有公开，所以暂时无法访问。以下仅提供项目介绍，供参考。
+
 <div align="center">
-  <a href="https://github.com/Acorn2/项目1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acorn2&repo=项目1&theme=radical" />
+  <a href="javascript:void(0)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acorn2&repo=flomo-plugin&theme=radical" />
   </a>
-  <a href="https://github.com/Acorn2/项目2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acorn2&repo=项目2&theme=radical" />
+  <a href="javascript:void(0)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Acorn2&repo=orm-generator&theme=radical" />
   </a>
 </div>
+
+### 🔍 项目详情
+
+#### flomo-plugin
+一个优雅的 Chrome 浏览器扩展，用于快速保存网页内容到 Flomo。该插件支持 AI 智能总结功能，可以自动提取网页重要信息；提供多主题切换功能，满足不同用户的个性化需求；同时支持侧边栏模式，提升用户体验。这是我在 SnapFlomo 项目基础上开源的精简版本。
+
+#### orm-generator
+基于 SpringBoot 和 FreeMarker 构建的代码生成器，支持 Mybatis、Mybatis Plus 和 JPA 三种主流 ORM 框架。该工具可以根据数据库表结构自动生成实体类、Mapper、Service 和 Controller 等代码，大幅提升开发效率，减少重复性工作。
 
 ## 📫 联系我
 
@@ -183,9 +193,3 @@
   <img src="https://raw.githubusercontent.com/Acorn2/Acorn2/output/github-contribution-grid-snake.svg" />
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Acorn2&color=blueviolet&style=flat-square&label=访问量">
-  <p>如果我的项目对你有帮助，可以考虑给我买杯咖啡 ☕</p>
-</div>
