@@ -187,9 +187,4 @@
   </a>
 </div>
 
-## 🎮 放松一下
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Acorn2/Acorn2/output/github-contribution-grid-snake.svg" />
-</div>
 
