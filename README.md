@@ -1,6 +1,10 @@
 # 👋 你好，我是 hresh
 
 <div align="center">
+  <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java开发工程师;全栈开发爱好者;热爱技术和创新;不断学习，持续成长&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
