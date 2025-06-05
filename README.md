@@ -12,6 +12,7 @@
 
 - 🧑‍💻 七年Java开发工程师工作经验
 - 🔭 我目前正在研究 [Vibe Coding] 和全栈独立开发
+- 🔍 **目前正在寻找新的工作机会，欢迎推荐合适的职位**
 - 👯 我希望能在 [独立开发] 方面进行合作
 - 💬 可以向我咨询关于 [Java开发、独立开发、AI应用] 的问题
 - 📫 联系方式: [hkyy521@163.com]
@@ -189,6 +190,10 @@
   <a href="https://juejin.cn/user/2664871918047063">
     <img src="https://img.shields.io/badge/掘金-007FFF?style=for-the-badge&logo=juejin&logoColor=white"/>
   </a>
+</div>
+
+<div align="center">
+  <strong>💼 目前开放工作机会，欢迎内推和合作洽谈</strong>
 </div>
 
 

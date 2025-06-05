@@ -12,6 +12,7 @@
 
 - 🧑‍💻 Seven years of experience as a Java Developer
 - 🔭 Currently working on [Vibe Coding] and Full-stack Independent Development
+- 🔍 **Currently seeking new career opportunities, welcome job referrals**
 - 👯 Looking to collaborate on [Independent Development]
 - 💬 Ask me about [Java Development, Independent Development, AI Applications]
 - 📫 How to reach me: [hkyy521@163.com]
@@ -189,4 +190,8 @@ A code generator built on SpringBoot and FreeMarker that supports three mainstre
   <a href="https://juejin.cn/user/2664871918047063">
     <img src="https://img.shields.io/badge/Juejin-007FFF?style=for-the-badge&logo=juejin&logoColor=white"/>
   </a>
+</div>
+
+<div align="center">
+  <strong>💼 Open to new opportunities, welcome referrals and collaboration</strong>
 </div>
