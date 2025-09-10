@@ -135,8 +135,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acorn2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acorn2&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Acorn2&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acorn2&layout=compact&langs_count=7&theme=radical&cache_seconds=1800"/>
 </div>
 
 ## 🏆 GitHub 奖杯
@@ -148,13 +148,13 @@
 ## 🔥 活跃度
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acorn2&theme=dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acorn2&theme=dark&cache_seconds=1800">
 </div>
 
 ## 📈 贡献图
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Acorn2&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acorn2&theme=react-dark&cache_seconds=1800">
 </div>
 
 ## 🎯 精选项目
